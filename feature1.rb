@@ -5,3 +5,7 @@ end
 def hotfix
   '0.1.1'
 end
+
+def feature2
+  'feature2'
+end
