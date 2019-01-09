@@ -6,3 +6,7 @@ end
 def feature4
   'feature4'
 end
+
+def feature5
+  'feature5'
+end
